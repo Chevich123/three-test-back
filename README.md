@@ -1,4 +1,5 @@
-#HOW TO RUN
+#THREE.JS TEST BACKEND APP
+##HOW TO RUN
 
 ###install modules:
 ```npm ci```
@@ -9,5 +10,5 @@
 ###run project in dev mode
 ```npm run start:dev```
 
-###tests:
+###PS: for unit tests
 ```npm run test```
